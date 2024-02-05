@@ -1,0 +1,16 @@
+#test{
+    font-family: 'Comic Sans MS';
+    color: red;
+}
+body{
+    background-color: #575757;
+}
+#linkcolor{
+    color: white;
+}
+#wiplinkcolor{
+    color: rgb(225, 0, 0);
+}
+#whiteoutline{
+    color: black;
+}
